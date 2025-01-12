@@ -15,6 +15,7 @@ GPT_CONFIG_219M={
     'vocab_size':50257,
     'vector_dim':768,
     'context_length':1024,
+    'n_heads':24,
     'n_layers':20,
     'dropout_rate':0.2,
     'qkv_bias':False
